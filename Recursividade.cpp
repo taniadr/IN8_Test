@@ -14,7 +14,7 @@ int div(int n){
 }
 
 int main(void){
-    int n = 10;
-    cout<<div(10);
+    int m = 10;
+    cout<<div(m);
     return 0;
 }
